@@ -1,16 +1,6 @@
-# onboarding_screen_challenge
+## Onboarding Screen Challenge Solution.
 
-A new Flutter project.
+### [](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI#watch-it-on-youtube)[Watch it on YouTube](https://youtube.com/playlist?list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### [](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI#photos)Photos
+[![Preview](https://raw.githubusercontent.com/A1K2S3/flutter_onboarding/main/screenshots/main_image.png)](https://raw.githubusercontent.com/A1K2S3/flutter_onboarding/main/screenshots/main_image.png)
